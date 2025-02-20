@@ -5,4 +5,4 @@ run ./create_environment.sh
 
 cd submission_reminder_yourName
 
-run ./starup.sh
+run ./startup.sh
