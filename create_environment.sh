@@ -70,6 +70,7 @@ cat <<EOL > startup.sh
 #!/bin/bash
 # This script starts the reminder app
 echo "Starting the Submission Reminder App..."
+echo "________________________________________________"
 bash app/reminder.sh
 EOL
 
